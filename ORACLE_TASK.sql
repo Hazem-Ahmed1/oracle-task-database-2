@@ -10,6 +10,8 @@ grant create user to manager;
 create user user_1 identified by 123;
 create user user_2 identified by 123;
 
+-- Hello
+
 -- Sys Connection 
 
 grant create session to user_1;
